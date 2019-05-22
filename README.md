@@ -1,5 +1,5 @@
 # The Complete React Js and Redux Course - Build Modern Web Apps [Video]
-This is the code repository for [The Complete React Js and Redux Course - Build Modern Web Apps [Video]](https://www.packtpub.com/web-development/complete-react-js-and-redux-course-build-modern-web-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781789950656), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [The Complete React Js and Redux Course - Build Modern Web Apps [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781838828943), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 React has rapidly become one of the most powerful tools for building web applications. Top sites using React include Facebook, Twitter, Netflix, Airbnb, and more! This course is perfect for entrepreneurs or startups looking to bring their ideas to life; React developers command some of the highest salaries in the development world. This course is designed to turn students with no programming/web development experience into accomplished React developers.
 This course will show you how to:
@@ -18,31 +18,23 @@ By the end of the course, you will have built a sophisticated Photowall web appl
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Find detailed setup instructions for both macOS and Windows 
-<LI>A thorough introduction to Flutter, Dart, and the concept behind widgets 
-<LI>An overview of built-in widgets and how you may add your own ones 
-<LI>Get debugging tips and tricks 
-<LI>Page navigation with tabs, side drawers, and stack-based navigation 
-<LI>State management solutions 
-<LI>Handle and validate user input 
-<LI>Connecting your Flutter app to back-end servers by sending Http requests 
-<LI>User authentication 
-<LI>Add Google Maps 
-<LI>Use native device features such as the camera 
-<LI>Add beautiful animations and page transitions 
-<LI>See how to publish your app to the app stores </LI></UL></DIV>
+<LI>Build native apps and progressive web apps from one and the same codebase 
+<LI>Build native apps for iOS and Android, using Angular and powerful features Ionic 4 offers 
+<LI>Dive deeper into Ionic 4 to learn more about core and advanced features 
+<LI>Test iOS and Android apps on real devices and publish those apps to the app stores of the two platforms </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is designed to take students with no programming/web development experience to accomplished React developers.
+Beginners who want to build and manage a sophisticated Photowall Web Application with React, Redux, and CSS.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-No web development experience required.<br/>This course is designed to take students with no programming/web development experience to accomplished React developers.
+NA
 
 ## Related Products
-* [The Complete ARKit Course - Build 11 Augmented Reality Apps [Video]](https://www.packtpub.com/application-development/complete-arkit-course-build-11-augmented-reality-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781789958775)
+* [The Complete iOS 11 and Swift Developer Course - Build 20 Apps [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781838828943)
 
-* [The Complete Web Developer Course 2.0 [Video]](https://www.packtpub.com/web-development/complete-web-developer-course-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789618594)
+* [Ionic 4 - Build iOS, Android and Web Apps with Ionic and Angular [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781838828943)
 
-* [Learn Flutter and Dart to Build iOS and Android Apps [Video]](https://www.packtpub.com/application-development/learn-flutter-and-dart-build-ios-and-android-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781789951998)
+* [The Complete Python and PostgreSQL Developer Course [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781838828943)
+
