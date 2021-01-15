@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/the-complete-react-js-and-redux-course-build-modern-web-apps-video/9781789950656)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # The Complete React Js and Redux Course - Build Modern Web Apps [Video]
 This is the code repository for [The Complete React Js and Redux Course - Build Modern Web Apps [Video]](https://www.packtpub.com/application-development/ionic-4-build-ios-android-and-web-apps-ionic-and-angular-video?utm_source=github&utm_medium=repository&utm_campaign=9781838828943), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
